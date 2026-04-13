@@ -84,3 +84,4 @@ build/app/outputs/flutter-apk/app-release.apk
 ## Reflection Summary
 
 This project taught me how `StatefulWidget`, `setState()`, and `StreamBuilder` work together with Firestore. The biggest lesson was learning that Firestore streams update the UI live, so I did not need to manually manage a local list after each CRUD action.
+# cw03-task-manager-firebase
