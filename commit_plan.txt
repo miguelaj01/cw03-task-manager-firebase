@@ -1,0 +1,7 @@
+1. setup: create Flutter project and configure Firebase
+2. model: add Task model with toMap, fromMap, copyWith
+3. service: add TaskService with Firestore CRUD methods
+4. ui: build task list screen with add/read/update/delete
+5. subtasks: add nested subtask support
+6. polish: add search, dark mode, validation, loading/empty/error states
+7. docs: add README, reflection, and APK
